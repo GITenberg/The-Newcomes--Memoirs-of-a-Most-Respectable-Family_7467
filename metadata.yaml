@@ -1,0 +1,34 @@
+_repo: The-Newcomes--Memoirs-of-a-Most-Respectable-Family_7467
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: "The Newcomes is a novel by William Makepeace Thackeray, first published\
+  \ in 1855.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7467'
+  wikidata: Q3522018
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Families -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Newcomes: Memoirs of a Most Respectable Family'
+url: http://www.gutenberg.org/ebooks/7467
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Newcomes
+- https://en.wikipedia.org/wiki/The_Newcomes
